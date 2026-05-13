@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chhutir Ghonta
+
+This log tracks the cryptographic history and versioning for the song **Chhutir Ghonta** (chhutir-ghonta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T06:47:27.450662 | `v1` | `1fa43bf8e06107ab25767829671f72e35b6079319ab255a93b1699b22e3178be` | `9d1ed7a6e92432579a0170b1a235ba4fc8ff0ea06e49025b993f14d7d253950f` | `2026-05-13_chhutir-ghonta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
